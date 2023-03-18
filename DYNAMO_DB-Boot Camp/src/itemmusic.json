@@ -1,0 +1,11 @@
+{
+  "Artist": {"S": "Iron Maiden"},
+  "SongTitle": {"S": "Chains of Misery"},
+  "AlbumTitle": {"S": "Fear of the Dark"},
+  "SongYear": {"S": "1992"}
+
+  "Artist": {"P": "Ivete Sangalo"},
+  "SongTitle": {"P": "Chama la"},
+  "AlbumTitle": {"P": "Festa"},
+  "SongYear": {"P": "1992"}
+}
